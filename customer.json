@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "62946d3105a4264939c6cdcf"
+  },
+  "login": "rob",
+  "password": "123123",
+  "IP": "133.144.88.5",
+  "balance": 50,
+  "messages": [
+    "Hello",
+    "Its me"
+  ]
+},{
+  "_id": {
+    "$oid": "62946f5605a4264939c6cdd0"
+  },
+  "login": "sam",
+  "password": "321321",
+  "IP": "132.144.88.5",
+  "balance": 500,
+  "messages": [
+    "Almost heaven",
+    "West Virginia"
+  ]
+},{
+  "_id": {
+    "$oid": "62946fe505a4264939c6cdd1"
+  },
+  "login": "bob",
+  "password": "111111",
+  "IP": "133.144.188.15",
+  "balance": -50,
+  "messages": [
+    "Hello",
+    "From the other sides"
+  ]
+},{
+  "_id": {
+    "$oid": "6294701205a4264939c6cdd2"
+  },
+  "login": "ihor",
+  "password": "123123",
+  "IP": "133.144.88.55",
+  "balance": 50,
+  "messages": [
+    "Why do you recall me",
+    "When you'r high"
+  ]
+},{
+  "_id": {
+    "$oid": "6294707f05a4264939c6cdd3"
+  },
+  "login": "nik",
+  "password": "000000",
+  "IP": "133.14.188.25",
+  "balance": -5,
+  "messages": [
+    "When the days are cold",
+    "And the cards all fold"
+  ]
+}]
